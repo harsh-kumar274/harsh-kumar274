@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Software Engineer | 💡 ML Enthusiast | 🧠 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;DSA+Practitioner;ML+Learner;Future+SDE&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;ML+Learner;Problem+Solver&center=true&width=500&height=45">
 </p>
 
 ---
