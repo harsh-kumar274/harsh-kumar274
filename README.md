@@ -1,11 +1,9 @@
 # About Me 👋
 
-Hello, I'm @harsh-kumar274! ✨ Passionate about building dynamic web applications. 🚀  
-Currently diving deep into **DSA + Machine Learning**. 💻  
-🤝 Interested in collaborating on innovative projects  
-📩 Connect with me on LinkedIn  
-👨‍💻 Pronouns: He/Him  
-⚡ Fun fact: Early sleeper 😄  
+About Me 👋 Hello, I’m @Harsh Kumar! 
+✨ Passionate about building dynamic web applications with the MERN stack. 🚀 Currently diving deep into React and sharpening my frontend development skills. 
+🤝 Interested in collaborating on innovative projects—let’s create something awesome together! 📩 Connect with me on LinkedIn for opportunities or just to chat. 🙋‍♂️ Pronouns: He/Him 
+⚡ "Builder mindset with research ambition." 
 
 
 
