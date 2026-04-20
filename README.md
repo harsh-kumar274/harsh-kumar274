@@ -49,37 +49,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
----
-
-## 🧠 Coding Profiles & Stats
-
-<p align="center">
-
-<a href="https://leetcode.com/u/HARRY-HARSHKUMAR/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://naukri.com/code360/profile/d99a9e52-7149-4dac-8cdb-3df715ae45fe">
-  <img src="https://img.shields.io/badge/CodeStudio-Profile-blue?style=for-the-badge"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/harshkumarofqz">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-<a href="https://www.interviewbit.com/profile/harsh-kumar_532_154">
-  <img src="https://img.shields.io/badge/InterviewBit-Profile-black?style=for-the-badge"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/harshkumarthaku3">
-  <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-</p>
-
----
 
 ## 📊 LeetCode Stats
 
@@ -97,13 +67,6 @@
 
 ---
 
-## 🧠 Problem Solving
-
-- 💯 Practicing DSA daily  
-- 🔍 Focus: Arrays, Linked List, Trees, Recursion, DP  
-- 🏆 Preparing for **SDE roles (Product-based companies)**  
-
----
 
 ## 🌐 Connect With Me
 
