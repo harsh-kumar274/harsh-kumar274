@@ -1,81 +1,85 @@
-<h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | 💡 ML Enthusiast | 🧠 Problem Solver</h3>
+# About Me 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;ML+Learner;Problem+Solver&center=true&width=500&height=45">
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 B.Tech CSE Student  
-- 🧠 Strong in **Data Structures & Algorithms**  
-- 💻 Currently learning **Machine Learning & System Design basics**  
-- ⚡ Love building **real-world impactful projects**  
-- 🤝 Open to **internships & collaboration**
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 AI NewsBot
-- 📰 Fetches real-time news using APIs  
-- 🤖 Summarizes using LLM  
-- 🧠 NLP-based classification  
-👉 *Tech:* Python, APIs, NLP  
-
----
-
-### 🔹 RAG-based Document QA System
-- 📄 Query unstructured documents  
-- 🔍 Uses embeddings + vector DB  
-👉 *Tech:* Python, LLM, Pinecone  
-
----
-
-### 🔹 Online Book Store System
-- 🛒 Full Java-based system  
-- 🔐 Login + file/JDBC storage  
-👉 *Tech:* Core Java, OOP  
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,nodejs,react,mysql,git,github" />
-</p>
-
----
+Hello, I'm @harsh-kumar274! ✨ Passionate about building dynamic web applications. 🚀  
+Currently diving deep into **DSA + Machine Learning**. 💻  
+🤝 Interested in collaborating on innovative projects  
+📩 Connect with me on LinkedIn  
+👨‍💻 Pronouns: He/Him  
+⚡ Fun fact: Early sleeper 😄  
 
 
 
-## 📊 LeetCode Stats
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/HARRY-HARSHKUMAR?theme=dark&font=baloo&ext=contest" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=harsh-kumar274&show_icons=true&theme=radical&hide_border=true" />
 
----
+</td>
 
-## 🔥 Streak Stats
+<td width="50%">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=harsh-kumar274&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-kumar274&layout=compact&theme=radical&hide_border=true" />
+
+</td>
+</tr>
+</table>
+
+
+
+
+<table>
+<tr>
+<td width="60%" align="left">
+
+<!-- Tech Stack -->
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,cpp,c,nodejs,aws" />
+
+<br><br>
+
+<!-- Social Buttons -->
+<a href="https://instagram.com/iharsh.thakur07/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://discord.com/users/harshthakur3601">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+<a href="mailto:harshkumarthakur274@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/harsh-274-kumar">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="40%" align="right">
+
+<!-- GIF -->
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
+---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://instagram.com/YOUR_LINK">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/YOUR_ID">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -84,17 +88,11 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harsh-kumar274/harsh-kumar274/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/harsh-kumar274/harsh-kumar274/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## 💻
 
-> I turn ☕ into clean code and bugs into features 😄
-
----
-
-<p align="center">
-  ⭐ If you like my work, consider giving a star!
-</p>
+Hello World!!
