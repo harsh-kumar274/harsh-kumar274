@@ -60,9 +60,7 @@ About Me 👋 Hello, I’m @Harsh Kumar!
 </tr>
 </table>
 
----
 
----
 
 ## 🌐 Connect With Me
 
@@ -81,7 +79,7 @@ About Me 👋 Hello, I’m @Harsh Kumar!
   </a>
 </p>
 
----
+
 
 ## 🐍 Contribution Snake
 
@@ -89,7 +87,7 @@ About Me 👋 Hello, I’m @Harsh Kumar!
   <img src="https://raw.githubusercontent.com/harsh-kumar274/harsh-kumar274/output/github-contribution-grid-snake.svg">
 </p>
 
----
+
 
 ## 💻
 
