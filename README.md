@@ -1,9 +1,6 @@
 # About Me 👋
 
-About Me 👋 Hello, I’m @Harsh Kumar! 
-✨ Passionate about building dynamic web applications with the MERN stack. 🚀 Currently diving deep into React and sharpening my frontend development skills. 
-🤝 Interested in collaborating on innovative projects—let’s create something awesome together! 📩 Connect with me on LinkedIn for opportunities or just to chat. 🙋‍♂️ Pronouns: He/Him 
-⚡ "Builder mindset with research ambition." 
+I am a B.Tech Computer Science Engineering student with a strong interest in software development and problem-solving. I have a solid foundation in data structures, algorithms, and software engineering principles, along with hands-on experience in Java, Spring Boot, React, SQL, and RESTful APIs. I enjoy building efficient, scalable, and reliable solutions and continously strive to write clean, maintainable code. I am a proactive learner who values collaboration, analytical thinking, and adaptability. Working in team-driven, fast-paced environments has strengthened my ability to understand requirements, debug effectively, and deliver impactful solutions. 
 
 
 
