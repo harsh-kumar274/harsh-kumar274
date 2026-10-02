@@ -1,91 +1,226 @@
-# About Me 👋
+<p align="center">
+  <img 
+    src="./assets/github-banner.gif"
+    width="100%"
+    height="350"
+    style="object-fit: cover;"
+    alt="GitHub Banner"
+  />
+</p>
 
-I am a B.Tech Computer Science Engineering student with a strong interest in software development and problem-solving. I have a solid foundation in data structures, algorithms, and software engineering principles, along with hands-on experience in Java, Spring Boot, React, SQL, and RESTful APIs. I enjoy building efficient, scalable, and reliable solutions and continously strive to write clean, maintainable code. I am a proactive learner who values collaboration, analytical thinking, and adaptability. Working in team-driven, fast-paced environments has strengthened my ability to understand requirements, debug effectively, and deliver impactful solutions. 
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+👋,+I'm+Harsh+Kumar;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Cool+Stuff+🚀"
+    alt="Typing SVG"
+  />
+</h1>
 
+<h3 align="center">
+  <strong>Blending software engineering, machine learning, and scalable systems to build impactful solutions!</strong>
+</h3>
 
+<img 
+  align="right" 
+  alt="Coding" 
+  width="250"
+  src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif"
+/>
+
+- 🔭 Building **full-stack applications, backend systems, and AI-powered solutions**
+
+- 🌱 Currently mastering **Data Structures & Algorithms, Java, Spring Boot, Machine Learning, and DevOps**
+
+- 👯 Collaborating on **projects that combine software engineering with real-world AI/ML use cases**
+
+- 🤝 Seeking growth in **system design, scalable architectures, machine learning, and cloud technologies**
+
+- 💬 Ask me about **Java, C++, DSA, Spring Boot, React, JavaScript, SQL, REST APIs, Docker, and Machine Learning**
+
+- 📫 How to reach me **harshkumarthakur274@gmail.com**
+
+- ⚡ Fun fact **I don't fear bugs or bad predictions — they're just feedback with extra steps 😄**
+
+<h3 align="left">Connect with me:</h3>
 
 <table>
 <tr>
-<td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harsh-kumar274&show_icons=true&theme=radical&hide_border=true" />
-
+<td>
+<a href="https://www.linkedin.com/in/harsh-274-kumar/" target="_blank">
+<img 
+  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+  height="30"
+  width="40"
+  alt="LinkedIn"
+/>
+</a>
 </td>
 
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-kumar274&layout=compact&theme=radical&hide_border=true" />
-
+<td>
+<a href="https://www.instagram.com/iharsh.thakur07" target="_blank">
+<img 
+  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+  height="30"
+  width="40"
+  alt="Instagram"
+/>
+</a>
 </td>
+
+<td>
+<a href="https://leetcode.com/u/HARRY-HARSHKUMAR/" target="_blank">
+<img 
+  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+  height="30"
+  width="40"
+  alt="LeetCode"
+/>
+</a>
+</td>
+
 </tr>
 </table>
 
-
-
+<h3 align="left">Languages and Tools:</h3>
 
 <table>
 <tr>
-<td width="60%" align="left">
 
-<!-- Tech Stack -->
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,cpp,c,nodejs,aws" />
-
-<br><br>
-
-<!-- Social Buttons -->
-<a href="https://instagram.com/iharsh.thakur07/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://discord.com/users/harshthakur3601">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-<a href="mailto:harshkumarthakur274@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/harsh-274-kumar">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
 </td>
 
-<td width="40%" align="right">
-
-<!-- GIF -->
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
-
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 </td>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original-wordmark.svg" width="40" height="40"/>
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="40" height="40"/>
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+</td>
+
 </tr>
 </table>
 
-
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://instagram.com/YOUR_LINK">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/users/YOUR_ID">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<p>
+  <img 
+    align="center" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-kumar274" 
+    alt="harsh-kumar274"
+  />
 </p>
-
-
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harsh-kumar274/harsh-kumar274/output/github-contribution-grid-snake-dark.svg">
-</p>
-
-
-
-## 💻
-
-Hello World!!
